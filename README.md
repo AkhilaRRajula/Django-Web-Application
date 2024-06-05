@@ -1,4 +1,4 @@
-# Django Job Application Web Application
+# Django Web Job Application
 
 ## Project Overview
 This is a Django-based web application for managing job applications. It allows users to fill out a job application form and receive an email confirmation upon submission. The admin panel provides features to view, add, edit, and delete applications, with various filters to manage the data efficiently.
