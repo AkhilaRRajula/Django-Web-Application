@@ -11,14 +11,14 @@ This is a Django-based web application for managing job applications. It allows 
 
 ## Screenshots
 ### Job Application Form
-![Job Application Form](https://github.com/AkhilaRRajula/Django-Web-Application/assets/42290255/743ad4a6-643a-4c83-b8e0-5d7fdfa25ebd)
+![Job Application Form](https://github.com/AkhilaRRajula/Django-Web-Application/assets/42290255/a25e5d51-c403-4f09-9752-a352d9e953a8)
 
 ### Admin Panel
-![Admin Panel](https://github.com/AkhilaRRajula/Django-Web-Application/assets/42290255/a6d3bdd8-9061-4c40-89b5-e1982497d694)
+![Admin Panel](https://github.com/AkhilaRRajula/Django-Web-Application/assets/42290255/ead2c424-801f-4785-ab28-b24f107f9800)
 
 
 ### Email Confirmation
-![Email Confirmation]((https://github.com/AkhilaRRajula/Django-Web-Application/assets/42290255/eb1e7f3c-7a39-4b67-88a9-f121c7b38e33))
+![Email Confirmation](https://github.com/AkhilaRRajula/Django-Web-Application/assets/42290255/bbb91833-7d13-49bc-bc0f-649fd9c05ceb)
 
 ## Installation
 1. **Clone the repository:**
